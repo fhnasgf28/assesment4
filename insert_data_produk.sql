@@ -1,0 +1,1 @@
+INSERT INTO produk (id, nama, deskripsi, harga, stok) VALUES
