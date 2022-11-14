@@ -1,0 +1,1 @@
+UPDATE kategori SET deskripsi = "menyediakan berbagai jenis komputer & laptop dan aksesoris" WHERE id = 1;

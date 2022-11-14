@@ -1,0 +1,1 @@
+UPDATE produk set stok = 10 WHERE id = 3;
